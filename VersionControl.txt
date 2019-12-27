@@ -1,0 +1,5 @@
+@ci24/script-sqlbackup
+Control de versionamiento
+
+1.0.0: Generación de la versión inicial - Capacitación al personal de soporte técnico para la instalación en los servidores
+
